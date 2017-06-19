@@ -1,3 +1,13 @@
+##
+* cli building with `clap`
+* dir traverse with `ignore`
+* test with bash
+  * diff
+  * create temp file
+
+
+
+
 # fd
 [![Build Status](https://travis-ci.org/sharkdp/fd.svg?branch=master)](https://travis-ci.org/sharkdp/fd)
 

@@ -1,0 +1,12 @@
+
+[dependencies]
+ansi_term = "0.9"
+    This is a library for controlling colours and formatting, such as red bold text or blue underlined text, on ANSI terminals.
+clap = "2.24.2"
+atty = "0.2"
+    atty is a simple utility that answers one question, is this a tty?
+regex = "0.2"
+ignore = "0.2"  
+    The ignore crate provides a fast recursive directory iterator that respects various filters such as globs, file types and .gitignore files.
+
+
